@@ -5,6 +5,6 @@
     "command": "C:\\Python34\\python.exe",
 
     "isShellCommand": true,
-    "args": ["Test1.py"],
+    "args": ["NumGuess.py"],
     "showOutput": "always"
 }
